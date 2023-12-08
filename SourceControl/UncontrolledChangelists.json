@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Coin.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/NewMap.umap",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_NewLevelEntrance.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/__ExternalActors__/Untitled/0/8F/DPO3V1P3KHVFAIW9VSFWUB.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/SG_Objects.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/Untitled.umap",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Singleton.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/__ExternalActors__/Untitled/C/I1/R90YCG2NVRZIUSZ0TN83TE.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/__ExternalActors__/Untitled/B/HV/MJ3IB3WNJJS0DHSQSIGHHD.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/__ExternalActors__/Untitled/C/G0/DSNRS6J0XTZY5BPG84GGKT.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/__ExternalActors__/Untitled/D/UY/9KCQX5GO6TSTZQ1M5Z8ONA.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_NewLevelEntrance1.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Security_Camera.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Gaurd.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/Interact_Interface.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/W_HUD.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/CamGuard.umap",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Guard.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/ThirdPerson/Blueprints/BP_Guard2.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Guard2.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter1.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Security_Camera_2.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Security_Camera_3.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Guard_2.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Guard_3.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Checkpoint.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Door.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/NewBlueprint.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Door_2.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Guard_4.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Guard_5.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/BP_Point.uasset",
+				"C:/Users/johnh/OneDrive/Documents/Unreal Projects/Coding2FL23/Content/CamGaurd.umap"
+			]
+		}
+	]
+}
